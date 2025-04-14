@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TITOMUTETHIA
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in rocketscince
 - 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on webdevelopment
+- 💞️ I’m looking to collaborate on Elonmusk
 - 📫 How to reach me @titomutethia
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love my work

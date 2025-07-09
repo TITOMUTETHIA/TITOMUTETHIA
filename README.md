@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TITOMUTETHIA
-- 👀 I’m interested in rocketscince
-- 🌱 I’m currently learning laravel
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning graphic design
 - 💞️ I’m looking to collaborate on SpaceX
 - 📫 How to reach me @titomutethia
 - 😄 Pronouns: He/Him

@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TITOMUTETHIA
-- 👀 I’m interested in game development
-- 🌱 Currently developing web apps powered by Blazor on ASP.NET Core
+- 👀 I’m interested in c#
+- 🌱 Currently developer using c# on ASP.NET Core and sql
 - 💞️ looking to collaborate
 - 📫 How to reach me @titomutethia
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/prof/
 - ⚡ Fun fact: I love my work
 
 
